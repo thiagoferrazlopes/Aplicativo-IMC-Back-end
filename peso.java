@@ -5,9 +5,6 @@ public class peso {
 
 	public static void main(String[] args) {
 
-		
-		
-
 		Scanner s = new Scanner(System.in);
 		
 		String peso;
@@ -29,19 +26,7 @@ public class peso {
 			String msg = (imc >=20 && imc <=25 )? "Peso Ideal" : "Fora do Peso";
 			System.out.println(msg);
 
-			
 		}while(continuar);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 
